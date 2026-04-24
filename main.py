@@ -1,0 +1,6 @@
+producto = input("Ingrese producto")
+prod2 = input("Otro producto")
+precio = int(input("Ingrese precio"))
+pre2 = int(input("Producto y Precio"))
+print(f"{producto:<10} {precio:>10}")
+print(f"{prod2:<10} {pre2:>10}")
